@@ -110,7 +110,7 @@ a {
     height: 16rem;
     width: 16rem;
     object-fit: cover;
-    transform: rotate(-2deg); /* deg = degrees */
+    transform: rotate(-2deg);
 }
 
 .gallery__img-wrapper {
